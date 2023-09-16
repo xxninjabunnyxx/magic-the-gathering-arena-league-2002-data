@@ -1,0 +1,110 @@
+---
+object: card
+id: f4a13429-8741-478b-8b17-1a0d8a1a7d02
+oracle_id: 5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982
+multiverse_ids: []
+tcgplayer_id: 37965
+cardmarket_id: 18197
+name: Arc Lightning
+lang: en
+released_at: '2002-01-01'
+uri: https://api.scryfall.com/cards/f4a13429-8741-478b-8b17-1a0d8a1a7d02
+scryfall_uri: https://scryfall.com/card/pal02/3/arc-lightning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.jpg?1561758434
+  normal: https://cards.scryfall.io/normal/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.jpg?1561758434
+  large: https://cards.scryfall.io/large/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.jpg?1561758434
+  png: https://cards.scryfall.io/png/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.png?1561758434
+  art_crop: https://cards.scryfall.io/art_crop/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.jpg?1561758434
+  border_crop: https://cards.scryfall.io/border_crop/front/f/4/f4a13429-8741-478b-8b17-1a0d8a1a7d02.jpg?1561758434
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Arc Lightning deals 3 damage divided as you choose among one, two, or
+  three targets.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 25e5166c-7c44-4c69-ad78-3f1668ab3156
+set: pal02
+set_name: Arena League 2002
+set_type: promo
+set_uri: https://api.scryfall.com/sets/25e5166c-7c44-4c69-ad78-3f1668ab3156
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apal02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pal02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f4a13429-8741-478b-8b17-1a0d8a1a7d02/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982&unique=prints
+collector_number: '3'
+digital: false
+rarity: rare
+flavor_text: |-
+  "It is vain to look for a defense against lightning."
+  —Publius Syrus, Maxim 835, trans. Lyman
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andrew Goldhawk
+artist_ids:
+- f4a65a04-9e2e-4541-8d0e-f34e9517f092
+illustration_id: fa16bad9-228f-4896-a219-1d108ba47b8c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- arenaleague
+edhrec_rank: 13418
+penny_rank: 6293
+prices:
+  usd: 
+  usd_foil: '6.98'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arc+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arc+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Arc+Lightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37965?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arc+Lightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arc+Lightning&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
